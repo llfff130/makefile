@@ -37,8 +37,8 @@ void printhello(){
     cout<<"Hello,world"<<endl;
 }
 ```
-![test]()  
-![test]()  
+![test](1.png)  
+![test](2.png)  
 ## 基本语法 ##
 ```bash
 CXX=g++
